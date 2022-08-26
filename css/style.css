@@ -1,0 +1,88 @@
+body{
+    background-color: azure;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    margin:50px;
+    height: 60px;
+}
+.navs-list{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    list-style-type: none;
+
+}
+li a{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+}
+button{
+    background-color: #C8A2C8;
+    border: #C8A2C8;
+    margin-top: 10px;
+    margin-right: 50px;
+    height: 40px;
+    width: 200px;
+    font-size: larger;
+    color: white;
+
+}
+.companyname{
+    padding-left: 100px;
+    position: relative; top: -10px;
+}
+.builds{
+    color: #C8A2C8;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+}
+.Lets-Make{
+    display: grid;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 2.5em;
+}
+.purple{
+    color: #C8A2C8;
+}
+.lorem{
+    display: grid;
+    line-height: 1.5em;
+}
+.marketing{
+    display: flex;
+    /* justify-content: space-between; */
+    margin-top: 10px;
+    margin-right: 10px;
+    gap: 120px;
+    
+}
+.years{
+    display: grid;
+
+}
+.digit{
+    font-weight: bold;
+}
+.become2{
+    margin-top: 10px;
+    margin-bottom:20px;
+
+}
+.dreamhouseimg{
+    width: 530px;
+    height: 400px;
+    margin-right: 50px;
+    margin-top: 30px;
+    /* position: relative; left: 10px; */
+
+}
+main{
+    margin-left: 50px;
+}
